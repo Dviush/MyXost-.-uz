@@ -1,0 +1,124 @@
+body {
+    background: #253341 !important;
+    color: #fff;
+    max-width: 540px;
+    margin: 0 auto !important;
+    font-size: 12px !important;
+    font-family: 'AleksandraC';
+    /* height: 600.833px; */
+}
+
+#header {
+    background-color: #4a76a8;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    
+}
+
+.hbutton1 {
+    width: 22px;
+    height: 22px;
+}
+
+.hbutton2 {
+    width: 22px;
+    height: 22px;
+}
+
+
+.logol {
+    padding: 15px; 
+}
+
+.logoh {
+    font-size: 13px;
+    font-weight: bolder;
+}
+
+.btns {
+    text-align: center;
+    margin-top: 16px;
+}
+
+.btns button {
+    padding: 3px;
+}
+
+.title {
+    background-color: #4a76a8;  
+    text-align: center;
+    height: 45px;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.section {
+    /* display: flex; */
+    text-align: center !important ;
+    /* text-align: center; */
+    padding-top: 10px;
+}
+
+.menu1, h3 {
+    display: inline;
+    text-align: center; 
+}
+
+.menu1 {
+    height: 18px;
+    text-align: center;
+
+}
+
+.text2 {
+    padding-top: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #0088cc;
+}
+
+.menu {
+    padding: 8px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05)
+}
+
+.title1 {
+    background-color: #4a76a8;  
+    text-align: center;
+    height: 45px;
+    border-radius: 5px;
+    margin-top: 1px;
+    text-align: center;
+}
+
+.section1 {
+    /* display: flex; */
+    text-align: center !important ;
+    /* text-align: center; */
+    padding-top: 10px;
+}
+
+footer {
+    background: #5d80a6;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgb(52 52 52 / 20%);
+    font-size: 13px;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+
+
+
+
